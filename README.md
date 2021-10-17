@@ -2,13 +2,6 @@
 <p align="center">⛵<code>dashboard-laravel</code> is administrative interface builder for laravel which can help you build CRUD backends just with few lines of code.</p>
 
 
-Sponsor
-------------
-
-<a href="https://ter.li/32ifxj">
-<img src="https://user-images.githubusercontent.com/1479100/102449272-dc356880-406e-11eb-9079-169c8c2af81c.png" alt="laravel-admin" width="200px;">
-</a>
-
 
 Requirements
 ------------
